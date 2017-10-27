@@ -1,0 +1,1 @@
+The number zero is being compared to 12 % 2 in the command. Since 12 % 2 is zero, it will show up as true. i=i+1 should show the value 3.
